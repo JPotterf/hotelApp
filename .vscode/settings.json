@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.commandsToSkipShell": [
+        "\"javascript.validate.enable\": false"
+    ],
+    "workbench.preferredHighContrastColorTheme": "Tomorrow Night Blue",
+    "editor.fontSize": 16
+}

@@ -23,7 +23,6 @@ const styles = StyleSheet.create({
         marginRight:15,
     },
     locationText:{
-        
     }
 
 });
